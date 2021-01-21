@@ -1,4 +1,8 @@
 # ComaCluster
+
+Performing statistical analysis on the Coma Cluster, and visualizing it a Histograms, plots and a 3D plot. More info below
+![Alt text](Screen Shot 2021-01-21 at 12.56.10 AM.png.png?raw=true "Title")
+
 Data was retrieved from SDSS DR13; SQL Code:
 
 
