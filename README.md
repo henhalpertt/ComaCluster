@@ -1,5 +1,5 @@
 # ComaCluster
-Data was retrieved from SDSS DR13:
+Data was retrieved from SDSS DR13; SQL Code:
 
 
 SELECT <br>
@@ -19,13 +19,13 @@ WHERE <br>
    
    review: 
 
-Plotting the RA, Dec distribution of all the galaxies in catalogue
+Plotting the RA, Dec distribution of all the galaxies in the catalogue
 
 Finding weighted mean for RA and Dec values
 
-Redshift histogram and fitting a gaussian function to it
+A histogram of redshifts and fitting a gaussian function to it
 
-Using the redshift to find the recessional velocity of the cluster
+Using the redshifts to find the recessional velocity of the cluster
 
 Finding the projected radial distances of galaxies from the center of Coma
 
