@@ -1,6 +1,6 @@
 # ComaCluster
 
-Performing statistical analysis on the Coma Cluster, and visualizing it. More info below
+Performing statistical analysis on the Coma Cluster, and visualizing it.
 ![Alt text](Coma3d.png?raw=true "Title")
 
 Data was retrieved from SDSS DR13; SQL Code:
